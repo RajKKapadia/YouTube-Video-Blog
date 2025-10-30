@@ -4,7 +4,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-gradient-to-b from-zinc-50 to-zinc-100 dark:from-zinc-950 dark:to-black">
+    <div className="flex min-h-screen items-center justify-center bg-linear-to-b from-zinc-50 to-zinc-100 dark:from-zinc-950 dark:to-black">
       <main className="w-full max-w-2xl px-6 py-12">
         <div className="flex flex-col items-center gap-8 text-center">
           <div className="self-end">
